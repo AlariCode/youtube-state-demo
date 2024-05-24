@@ -1,0 +1,12 @@
+.catalog {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  max-width: 800px;
+  margin-top: 24px;
+}
+
+.item {
+  padding: 10px;
+  background-color: var(--violet-dark);
+}

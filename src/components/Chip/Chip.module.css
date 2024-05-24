@@ -1,0 +1,46 @@
+.span {
+  font-size: 12px;
+  line-height: 12px;
+  color: var(--white);
+  padding: 4px 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.bordered.ghost {
+  border: 1px solid var(--gray-stroke);
+}
+.ghost {
+  border-radius: 17px;
+  padding: 6px 12px;
+  font-size: 16px;
+  line-height: 120%;
+}
+
+.primary {
+  border-radius: 17px;
+  padding: 6px 12px;
+  font-size: 16px;
+  line-height: 120%;
+
+  background-color: var(--primary);
+}
+
+.yellow {
+  background-color: var(--yellow);
+}
+
+.green {
+  background-color: var(--green);
+}
+
+.blue {
+  background-color: var(--blue);
+}
+
+.cyan {
+  background-color: var(--cyan);
+}
+
+.purple {
+  background-color: var(--purple);
+}
